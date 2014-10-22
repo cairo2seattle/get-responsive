@@ -1,0 +1,22 @@
+.button {
+   border-bottom: 4px solid #107B9A;
+   background: #16B6E2;
+   padding: 8px 30px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   font-size: 1em;
+   font-weight: bold;
+   color: white;
+   text-decoration: none;
+   }
+.button:hover {
+   border-bottom-color: #107B9A;
+   background: #107B9A;
+   color: #ccc;
+   }
+.button:active {
+   border-bottom-color: #1DE7F2;
+   background: #1DE7F2;
+   }
+
